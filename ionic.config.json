@@ -1,5 +1,7 @@
 {
   "name": "makinas",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
